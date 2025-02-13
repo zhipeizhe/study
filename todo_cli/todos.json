@@ -1,3 +1,17 @@
-[
-  {
-    "id": 
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "ki",
+      "due_date": "2025-06-06",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "lo",
+      "due_date": "2025-06-03",
+      "completed": false
+    }
+  ],
+  "next_id": 3
+}
